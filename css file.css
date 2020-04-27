@@ -71,3 +71,18 @@ h1{
 .bc{
     background-color:rgb(238,251,255);
 }
+.yellow{
+	background-color:#FFFDD0;
+}
+.padleft{
+    padding-left:20px;
+}
+.padright{
+	padding-right:20px;
+}
+.padtop{
+	padding-top:20px;
+}
+.padbottom{
+	padding-bottom:20px;
+}
